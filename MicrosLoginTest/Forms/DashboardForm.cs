@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using MicrosLoginTest.Forms;        //получить доступ к формам
 using MySql.Data.MySqlClient;       //получить доступ к MYSQL
