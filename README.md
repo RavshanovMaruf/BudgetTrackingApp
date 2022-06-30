@@ -1,5 +1,5 @@
 # BudgetTrackingApp
-This project helps to manage incomes and expenses. It was testing app in micros.
+This project helps to manage incomes and expenses. It was testing app in micros. This projects is in russian language(comments inside code and UI).
 
 
 # Project details
